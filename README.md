@@ -1,4 +1,5 @@
 Penggunaan Backend ini dengan membuat file .env dan masukan sesuai confignya
+
 SEVER_NAME= masukan nama server contoh:  POS API Service
 SECRET_KEY= masukan secret key kita buat sendiri
 DB_HOST= masukan db hostnya menggunakan monggodb
