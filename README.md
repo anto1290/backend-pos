@@ -16,3 +16,5 @@ DB_NAME= nama database mongonya
 
 
 jalankan dengan printah npm run dev atau npm run start untuk production
+
+repo frontend : https://github.com/anto1290/eduwork-frontend
